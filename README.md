@@ -14,4 +14,12 @@ As an AI/ML Developer, I specialize in building scalable AI solutions that trans
 I thrive on continuous learning, innovation, and problem-solving. My approach to AI is built on curiosity, persistence, and collaboration, always pushing boundaries to create impactful solutions.
 
 📬 Let’s Connect!
-I’m always open to networking, collaborations, and AI discussions. Let’s connect on LinkedIn or check out my work on GitHub: [Your GitHub Profile]
+I’m always open to networking, collaborations, and AI discussions. Let’s connect on LinkedIn or check out my work on GitHub:
+
+## Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/your-profile)
+- [Twitter](https://twitter.com/your-profile)
+- [Email](mailto:your-email@example.com)
+
+## GitHub Stats
+![Shadman GitHub stats](https://github-readme-stats.vercel.app/api?username=Shadman-01&show_icons=true&theme=radical)
