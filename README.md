@@ -15,7 +15,7 @@ I thrive on continuous learning, innovation, and problem-solving. My approach to
 
 📬 Let’s Connect!
 I’m always open to networking, collaborations, and AI discussions. Let’s connect on LinkedIn or check out my work on GitHub:
-- [LinkedIn(https://www.linkedin.com/in/mohd-shadman-ntr/]
+- [LinkedIn](https://www.linkedin.com/in/mohd-shadman-ntr/)
 - [Twitter](https://twitter.com/your-profile)
 - [Email](mailto:mohdshadman585@gmail.com)
 
